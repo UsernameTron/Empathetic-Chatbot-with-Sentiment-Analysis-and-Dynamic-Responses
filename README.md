@@ -26,4 +26,5 @@ This project demonstrates a friendly and empathetic chatbot built using the xAI 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/empathetic-chatbot.git
+   git clone https://github.com/UsernameTron/Empathetic-Chatbot-with-Sentiment-Analysis-and-Dynamic-Responses.git
+
